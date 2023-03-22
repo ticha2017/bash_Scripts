@@ -1,0 +1,5 @@
+#!/bin/bash
+string1=100
+string2=200
+echo "The value for string 1 is $string1"
+echo "The value for string 2 is $string2"
