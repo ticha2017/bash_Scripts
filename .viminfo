@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1679757267,,"wq!"
+|2,0,1679765425,,"wq!"
 :wq
 |2,0,1679449006,,"wq"
 :21
@@ -29,36 +29,48 @@
 # Registers:
 
 # File marks:
-'0  11  1  ~/createdirctory1.sh
-|4,48,11,1,1679757267,"~/createdirctory1.sh"
-'1  4  7  ~/createdirctory.sh
-|4,49,4,7,1679756683,"~/createdirctory.sh"
-'2  1  0  ~/demo
-|4,50,1,0,1679756662,"~/demo"
-'3  4  7  ~/createdirctory.sh
-|4,51,4,7,1679756512,"~/createdirctory.sh"
-'4  8  8  ~/function1.sh
-|4,52,8,8,1679715853,"~/function1.sh"
-'5  3  12  ~/declare.sh
-|4,53,3,12,1679453724,"~/declare.sh"
-'6  6  35  ~/converting_hex_to_dec.sh
-|4,54,6,35,1679452520,"~/converting_hex_to_dec.sh"
+'0  4  17  ~/.gitconfig
+|4,48,4,17,1679765425,"~/.gitconfig"
+'1  11  1  ~/createdirctory1.sh
+|4,49,11,1,1679757267,"~/createdirctory1.sh"
+'2  4  7  ~/createdirctory.sh
+|4,50,4,7,1679756683,"~/createdirctory.sh"
+'3  1  0  ~/demo
+|4,51,1,0,1679756662,"~/demo"
+'4  4  7  ~/createdirctory.sh
+|4,52,4,7,1679756512,"~/createdirctory.sh"
+'5  8  8  ~/function1.sh
+|4,53,8,8,1679715853,"~/function1.sh"
+'6  3  12  ~/declare.sh
+|4,54,3,12,1679453724,"~/declare.sh"
 '7  6  35  ~/converting_hex_to_dec.sh
-|4,55,6,35,1679452481,"~/converting_hex_to_dec.sh"
-'8  7  47  ~/capitalizingfirstltter.sh
-|4,56,7,47,1679449451,"~/capitalizingfirstltter.sh"
-'9  9  24  ~/convertingtolwandup.sh
-|4,57,9,24,1679449255,"~/convertingtolwandup.sh"
+|4,55,6,35,1679452520,"~/converting_hex_to_dec.sh"
+'8  6  35  ~/converting_hex_to_dec.sh
+|4,56,6,35,1679452481,"~/converting_hex_to_dec.sh"
+'9  7  47  ~/capitalizingfirstltter.sh
+|4,57,7,47,1679449451,"~/capitalizingfirstltter.sh"
 
 # Jumplist (newest first):
+-'  4  17  ~/.gitconfig
+|4,39,4,17,1679765425,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1679765378,"~/.gitconfig"
 -'  11  1  ~/createdirctory1.sh
 |4,39,11,1,1679757267,"~/createdirctory1.sh"
+-'  11  1  ~/createdirctory1.sh
+|4,39,11,1,1679757267,"~/createdirctory1.sh"
+-'  1  0  ~/createdirctory1.sh
+|4,39,1,0,1679757258,"~/createdirctory1.sh"
 -'  1  0  ~/createdirctory1.sh
 |4,39,1,0,1679757258,"~/createdirctory1.sh"
 -'  4  7  ~/createdirctory.sh
 |4,39,4,7,1679756683,"~/createdirctory.sh"
 -'  4  7  ~/createdirctory.sh
 |4,39,4,7,1679756683,"~/createdirctory.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756683,"~/createdirctory.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756683,"~/createdirctory.sh"
 -'  1  0  ~/demo
 |4,39,1,0,1679756662,"~/demo"
 -'  1  0  ~/demo
@@ -67,6 +79,22 @@
 |4,39,1,0,1679756662,"~/demo"
 -'  1  0  ~/demo
 |4,39,1,0,1679756662,"~/demo"
+-'  1  0  ~/demo
+|4,39,1,0,1679756662,"~/demo"
+-'  1  0  ~/demo
+|4,39,1,0,1679756662,"~/demo"
+-'  1  0  ~/demo
+|4,39,1,0,1679756662,"~/demo"
+-'  1  0  ~/demo
+|4,39,1,0,1679756662,"~/demo"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756512,"~/createdirctory.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756512,"~/createdirctory.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756512,"~/createdirctory.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756512,"~/createdirctory.sh"
 -'  4  7  ~/createdirctory.sh
 |4,39,4,7,1679756512,"~/createdirctory.sh"
 -'  4  7  ~/createdirctory.sh
@@ -87,6 +115,50 @@
 |4,39,1,0,1679756466,"~/createdirctory.sh"
 -'  1  0  ~/createdirctory.sh
 |4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
 -'  8  8  ~/function1.sh
 |4,39,8,8,1679715853,"~/function1.sh"
 -'  8  8  ~/function1.sh
@@ -151,108 +223,44 @@
 |4,39,1,0,1679714397,"~/function1.sh"
 -'  1  0  ~/function1.sh
 |4,39,1,0,1679714397,"~/function1.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  3  12  ~/declare.sh
-|4,39,3,12,1679453724,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
--'  1  0  ~/declare.sh
-|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitconfig
+	*	1679765423	0
+	"	4	17
+	^	4	18
+	.	4	17
+	+	5	28
+	+	4	17
 
 > ~/createdirctory1.sh
 	*	1679757265	0
@@ -386,14 +394,3 @@
 	^	9	2
 	.	9	1
 	+	9	1
-
-> ~/AND.sh
-	*	1678847177	0
-	"	11	0
-	^	10	2
-	.	10	0
-	+	2	0
-	+	5	40
-	+	11	0
-	+	5	19
-	+	10	0
