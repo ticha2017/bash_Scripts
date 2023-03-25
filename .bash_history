@@ -251,3 +251,47 @@ chmod +x sendingoutput.sh
 vi stringprocessing.sh
 chmod +x stringprocessing.sh
 ./stringprocessing.sh
+vi concatenation.sh
+chmod+x concatenation.sh
+chmod +x concatenation.sh
+./concatenation.sh
+ls -ltra
+vi convertingtolwandup.sh
+chmod +x convertingtolwandup.sh
+./convertingtolwandup.sh
+vi capitalizingfirstltter.sh
+yum install git
+git init
+git status
+git add .
+git commit "first commit"
+git commit -m "first commit"
+git remote add
+git remote add origin https://github.com/ticha2017/bash_Scripts.git
+git push -u origin master
+git branch -m ndika
+git remote add origin https://github.com/ticha2017/bash_Scripts.git
+git push -u origin ndika
+git branch
+git push -u origin ndika
+vi converting_hex_to_dec.sh
+chmod +x converting_hex_to_dec.sh
+./converting_hex_to_dec.sh
+declare
+declare -p
+declare myvariable
+$ declare -p
+$declare -p
+declare -p
+declare myvariable=11
+clear
+vi declare.sh
+chmod +x  declare.sh
+./declare.sh
+ls -ltra
+git push remote origin ndika
+git push origin ndika
+vi function1.sh
+chmod +x function1.sh
+./function1.sh
+git push origin ndika

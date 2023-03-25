@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1679449451,,"wq!"
+|2,0,1679757267,,"wq!"
 :wq
 |2,0,1679449006,,"wq"
 :21
@@ -29,230 +29,269 @@
 # Registers:
 
 # File marks:
-'0  7  47  ~/capitalizingfirstltter.sh
-|4,48,7,47,1679449451,"~/capitalizingfirstltter.sh"
-'1  9  24  ~/convertingtolwandup.sh
-|4,49,9,24,1679449255,"~/convertingtolwandup.sh"
-'2  8  6  ~/concatenation.sh
-|4,50,8,6,1679449006,"~/concatenation.sh"
-'3  14  1  ~/stringprocessing.sh
-|4,51,14,1,1679280712,"~/stringprocessing.sh"
-'4  4  0  ~/sendingoutput1.sh
-|4,52,4,0,1679279713,"~/sendingoutput1.sh"
-'5  5  16  ~/sendingoutput.sh
-|4,53,5,16,1679279643,"~/sendingoutput.sh"
-'6  2  13  ~/script_input.sh
-|4,54,2,13,1678926241,"~/script_input.sh"
-'7  2  13  ~/script_input.sh
-|4,55,2,13,1678926215,"~/script_input.sh"
-'8  2  13  ~/script_input.sh
-|4,56,2,13,1678926082,"~/script_input.sh"
-'9  2  13  ~/script_input.sh
-|4,57,2,13,1678926082,"~/script_input.sh"
+'0  11  1  ~/createdirctory1.sh
+|4,48,11,1,1679757267,"~/createdirctory1.sh"
+'1  4  7  ~/createdirctory.sh
+|4,49,4,7,1679756683,"~/createdirctory.sh"
+'2  1  0  ~/demo
+|4,50,1,0,1679756662,"~/demo"
+'3  4  7  ~/createdirctory.sh
+|4,51,4,7,1679756512,"~/createdirctory.sh"
+'4  8  8  ~/function1.sh
+|4,52,8,8,1679715853,"~/function1.sh"
+'5  3  12  ~/declare.sh
+|4,53,3,12,1679453724,"~/declare.sh"
+'6  6  35  ~/converting_hex_to_dec.sh
+|4,54,6,35,1679452520,"~/converting_hex_to_dec.sh"
+'7  6  35  ~/converting_hex_to_dec.sh
+|4,55,6,35,1679452481,"~/converting_hex_to_dec.sh"
+'8  7  47  ~/capitalizingfirstltter.sh
+|4,56,7,47,1679449451,"~/capitalizingfirstltter.sh"
+'9  9  24  ~/convertingtolwandup.sh
+|4,57,9,24,1679449255,"~/convertingtolwandup.sh"
 
 # Jumplist (newest first):
--'  7  47  ~/capitalizingfirstltter.sh
-|4,39,7,47,1679449451,"~/capitalizingfirstltter.sh"
--'  1  0  ~/capitalizingfirstltter.sh
-|4,39,1,0,1679449436,"~/capitalizingfirstltter.sh"
--'  9  24  ~/convertingtolwandup.sh
-|4,39,9,24,1679449255,"~/convertingtolwandup.sh"
--'  9  24  ~/convertingtolwandup.sh
-|4,39,9,24,1679449255,"~/convertingtolwandup.sh"
--'  1  0  ~/convertingtolwandup.sh
-|4,39,1,0,1679449118,"~/convertingtolwandup.sh"
--'  1  0  ~/convertingtolwandup.sh
-|4,39,1,0,1679449118,"~/convertingtolwandup.sh"
--'  8  6  ~/concatenation.sh
-|4,39,8,6,1679449006,"~/concatenation.sh"
--'  8  6  ~/concatenation.sh
-|4,39,8,6,1679449006,"~/concatenation.sh"
--'  8  6  ~/concatenation.sh
-|4,39,8,6,1679449006,"~/concatenation.sh"
--'  8  6  ~/concatenation.sh
-|4,39,8,6,1679449006,"~/concatenation.sh"
--'  1  0  ~/concatenation.sh
-|4,39,1,0,1679448861,"~/concatenation.sh"
--'  1  0  ~/concatenation.sh
-|4,39,1,0,1679448861,"~/concatenation.sh"
--'  1  0  ~/concatenation.sh
-|4,39,1,0,1679448861,"~/concatenation.sh"
--'  1  0  ~/concatenation.sh
-|4,39,1,0,1679448861,"~/concatenation.sh"
--'  14  1  ~/stringprocessing.sh
-|4,39,14,1,1679280712,"~/stringprocessing.sh"
--'  14  1  ~/stringprocessing.sh
-|4,39,14,1,1679280712,"~/stringprocessing.sh"
--'  14  1  ~/stringprocessing.sh
-|4,39,14,1,1679280712,"~/stringprocessing.sh"
--'  14  1  ~/stringprocessing.sh
-|4,39,14,1,1679280712,"~/stringprocessing.sh"
--'  14  1  ~/stringprocessing.sh
-|4,39,14,1,1679280712,"~/stringprocessing.sh"
--'  14  1  ~/stringprocessing.sh
-|4,39,14,1,1679280712,"~/stringprocessing.sh"
--'  14  1  ~/stringprocessing.sh
-|4,39,14,1,1679280712,"~/stringprocessing.sh"
--'  14  1  ~/stringprocessing.sh
-|4,39,14,1,1679280712,"~/stringprocessing.sh"
--'  1  0  ~/stringprocessing.sh
-|4,39,1,0,1679279878,"~/stringprocessing.sh"
--'  1  0  ~/stringprocessing.sh
-|4,39,1,0,1679279878,"~/stringprocessing.sh"
--'  1  0  ~/stringprocessing.sh
-|4,39,1,0,1679279878,"~/stringprocessing.sh"
--'  1  0  ~/stringprocessing.sh
-|4,39,1,0,1679279878,"~/stringprocessing.sh"
--'  1  0  ~/stringprocessing.sh
-|4,39,1,0,1679279878,"~/stringprocessing.sh"
--'  1  0  ~/stringprocessing.sh
-|4,39,1,0,1679279878,"~/stringprocessing.sh"
--'  1  0  ~/stringprocessing.sh
-|4,39,1,0,1679279878,"~/stringprocessing.sh"
--'  1  0  ~/stringprocessing.sh
-|4,39,1,0,1679279878,"~/stringprocessing.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  4  0  ~/sendingoutput1.sh
-|4,39,4,0,1679279713,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  1  0  ~/sendingoutput1.sh
-|4,39,1,0,1679279665,"~/sendingoutput1.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  5  16  ~/sendingoutput.sh
-|4,39,5,16,1679279643,"~/sendingoutput.sh"
--'  1  0  ~/sendingoutput.sh
-|4,39,1,0,1679279556,"~/sendingoutput.sh"
--'  1  0  ~/sendingoutput.sh
-|4,39,1,0,1679279556,"~/sendingoutput.sh"
--'  1  0  ~/sendingoutput.sh
-|4,39,1,0,1679279556,"~/sendingoutput.sh"
--'  1  0  ~/sendingoutput.sh
-|4,39,1,0,1679279556,"~/sendingoutput.sh"
--'  1  0  ~/sendingoutput.sh
-|4,39,1,0,1679279556,"~/sendingoutput.sh"
--'  1  0  ~/sendingoutput.sh
-|4,39,1,0,1679279556,"~/sendingoutput.sh"
+-'  11  1  ~/createdirctory1.sh
+|4,39,11,1,1679757267,"~/createdirctory1.sh"
+-'  1  0  ~/createdirctory1.sh
+|4,39,1,0,1679757258,"~/createdirctory1.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756683,"~/createdirctory.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756683,"~/createdirctory.sh"
+-'  1  0  ~/demo
+|4,39,1,0,1679756662,"~/demo"
+-'  1  0  ~/demo
+|4,39,1,0,1679756662,"~/demo"
+-'  1  0  ~/demo
+|4,39,1,0,1679756662,"~/demo"
+-'  1  0  ~/demo
+|4,39,1,0,1679756662,"~/demo"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756512,"~/createdirctory.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756512,"~/createdirctory.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756512,"~/createdirctory.sh"
+-'  4  7  ~/createdirctory.sh
+|4,39,4,7,1679756512,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  1  0  ~/createdirctory.sh
+|4,39,1,0,1679756466,"~/createdirctory.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  8  8  ~/function1.sh
+|4,39,8,8,1679715853,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  1  0  ~/function1.sh
+|4,39,1,0,1679714397,"~/function1.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  3  12  ~/declare.sh
+|4,39,3,12,1679453724,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
+-'  1  0  ~/declare.sh
+|4,39,1,0,1679453714,"~/declare.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/createdirctory1.sh
+	*	1679757265	0
+	"	11	1
+	^	11	2
+	.	11	1
+	+	11	1
+
+> ~/createdirctory.sh
+	*	1679756679	0
+	"	4	7
+	^	4	8
+	.	4	7
+	+	4	7
+
+> ~/demo
+	*	1679756656	0
+	"	1	0
+
+> ~/function1.sh
+	*	1679715848	0
+	"	8	8
+	^	8	9
+	.	8	8
+	+	8	8
+
+> ~/declare.sh
+	*	1679453721	0
+	"	3	12
+	^	3	13
+	.	3	12
+	+	3	12
+
+> ~/converting_hex_to_dec.sh
+	*	1679452517	0
+	"	6	35
+	^	6	36
+	.	6	35
+	+	6	35
 
 > ~/capitalizingfirstltter.sh
 	*	1679449447	0
@@ -358,66 +397,3 @@
 	+	11	0
 	+	5	19
 	+	10	0
-
-> ~/variables.sh
-	*	1678835561	0
-	"	10	55
-	^	10	56
-	.	10	55
-	+	11	0
-	+	10	55
-
-> ~/elif.sh
-	*	1678834935	0
-	"	12	1
-	^	12	2
-	.	12	0
-	+	2	0
-	+	3	8
-	+	7	13
-	+	4	5
-	+	10	4
-	+	11	0
-	+	5	0
-	+	6	3
-	+	7	0
-	+	8	0
-	+	9	3
-	+	10	0
-	+	12	0
-
-> ~/condition2.sh
-	*	1678766710	0
-	"	4	15
-	^	4	16
-	.	4	15
-	+	7	1
-	+	4	15
-
-> ~/condition1.sh
-	*	1678766419	0
-	"	4	16
-	^	4	17
-	.	4	16
-	+	9	1
-	+	8	29
-	+	4	16
-
-> ~/condition.sh
-	*	1678765440	0
-	"	8	2
-	^	8	3
-	.	4	5
-	+	9	0
-	+	8	0
-	+	5	19
-	+	4	5
-
-> ~/helloScript.sh
-	*	1678764638	0
-	"	6	6
-	^	6	7
-	.	6	7
-	+	7	0
-	+	3	14
-	+	6	7
